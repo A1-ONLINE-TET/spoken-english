@@ -19,11 +19,21 @@ word categories, action words, tests and a sentence-making preview.
 - **Tests** — Daily, Weekend (premium), Placement; progress + streak.
 - **Offline** — service worker precaches all screens and 325 images.
 
+## Course (Udemy-style) — NEW
+- `js/course.js` — modules → lessons (types: phrases, dialogue, grammar, video, speaking, quiz). Edit this file to add content; no code change needed.
+- **Curriculum** with per-module progress, continue-learning, lesson ✓, prev/next.
+- **Lesson player**: 🔊 listen / 🐢 slow / 🎤 pronunciation score (0–100 + missed words), dialogue role-play (you = A/B), grammar with mistakes, video (your mp4 / Cloudflare Stream / YouTube), speaking tasks, module quiz (70% pass, explanations).
+- **Flashcard review** (spaced repetition), **notes** per lesson, **bookmarks**, **search**, **badges**, **daily goal + streak**, **certificate** (PNG download), **phrase sheet** (txt/copy/print), **Q&A**, **settings** (voice speed, goal, backup).
+- **Parent WhatsApp report** (`#/report`): builds a progress report and opens WhatsApp with it (1 tap). Fully automatic weekly sending needs a Cloudflare Worker cron + WhatsApp Business API (MSG91 WhatsApp / Meta Cloud API) — see `sendParentReportAuto()` in `js/app.js`.
+- **Your own videos**: put mp4 in `videos/` (see `videos/README.md`) or use Cloudflare Stream.
+- Free plan: Modules 1–2. Premium: all modules.
+
 ## Content
 - `tools/letters20.json` — 26 letters, 20 words each (word, British IPA, Tamil).
 - `tools/words.json` — 15 word categories (animals, fruit, body, actions, …).
 - `images/words/*.svg` — 325 animated flat-2D illustrations.
 - Regenerate app data after editing JSON/images: `python3 tools/make_data.py`
+- Course lessons: edit `js/course.js` directly (modules/lessons arrays).
 
 ## What is DEMO vs real (integration points)
 Everything in the front-end works. Two things need a small backend + keys for production:

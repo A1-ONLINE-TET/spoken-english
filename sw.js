@@ -1,5 +1,5 @@
 importScripts('js/precache.js');
-const CACHE = 'tna-v1';
+const CACHE = 'tna-v2';
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(self.PRECACHE)).then(() => self.skipWaiting()).catch(() => self.skipWaiting()));
 });
