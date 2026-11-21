@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="ink"><title>ink</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><ellipse cx="100" cy="178" rx="52" ry="7" fill="#000" opacity="0.10"/><g class="wiggle" style="transform-box:view-box;transform-origin:100px 176px"><path d="M174 28 C184 70 162 112 128 134 C138 100 150 62 174 28 Z" fill="#F5F5F5" stroke="#2B2B2B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><path d="M170 36 C158 70 144 100 130 130" fill="none" stroke="#9EA7AD" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" /><path d="M64 88 L136 88 Q148 94 148 108 L148 160 Q148 172 136 172 L64 172 Q52 172 52 160 L52 108 Q52 94 64 88 Z" fill="#2A3FA5" stroke="#2B2B2B" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" /><rect x="82" y="66" width="36" height="24" rx="3" fill="#DDE6FF" stroke="#2B2B2B" stroke-width="4" stroke-linejoin="round" /><rect x="80" y="52" width="40" height="16" rx="4" fill="#555555" stroke="#2B2B2B" stroke-width="4" stroke-linejoin="round" /><rect x="66" y="114" width="68" height="40" rx="3" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /><path d="M100 122 Q88 138 100 146 Q112 138 100 122 Z" fill="#2A3FA5" /><g class="fall" style="transform-box:view-box;transform-origin:34px 62px"><path d="M34 52 Q26 66 34 72 Q42 66 34 52 Z" fill="#2A3FA5" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round"/></g></g></g></svg>

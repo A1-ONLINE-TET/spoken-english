@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="yarn"><title>yarn</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><ellipse cx="100" cy="178" rx="52" ry="7" fill="#000" opacity="0.10"/><g class="bounce" style="transform-box:view-box;transform-origin:100px 176px"><circle cx="100" cy="108" r="50" fill="#E91E63" stroke="#2B2B2B" stroke-width="5" /><path d="M150.0 108.0 Q100 108 61.697777844051096 75.86061951567304" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M144.14737964294636 131.47357813929455 Q100 108 81.2696703292044 61.64080727166063" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M127.95964517353734 149.45187862775208 Q100 108 105.22642316338268 58.27390523158633" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M105.22642316338268 157.72609476841367 Q100 108 127.95964517353734 66.54812137224792" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M81.26967032920439 154.35919272833937 Q100 108 144.14737964294636 84.52642186070547" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M61.6977778440511 140.13938048432698 Q100 108 150.0 108.0" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M51.092619963309716 118.39558454088797 Q100 108 144.14737964294633 131.47357813929455" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M51.936915203084055 94.21813220915006 Q100 108 127.95964517353733 149.45187862775208" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M64.03300998306744 73.26708147705014 Q100 108 105.22642316338266 157.72609476841367" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M84.54915028125262 60.447174185242325 Q100 108 81.2696703292044 154.35919272833937" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M108.6824088833465 58.75961234938959 Q100 108 61.69777784405111 140.13938048432698" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M130.78307376628294 68.59946231966391 Q100 108 51.09261996330972 118.395584540888" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M145.67727288213004 87.66316784621 Q100 108 51.93691520308406 94.21813220915003" fill="none" stroke="#AD1457" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" /><path d="M140 140 Q168 150 162 174" fill="none" stroke="#E91E63" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><path d="M150 120 Q176 128 172 152" fill="none" stroke="#E91E63" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><path d="M70 86 C62 98 62 114 70 128" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".6"/></g></g></svg>

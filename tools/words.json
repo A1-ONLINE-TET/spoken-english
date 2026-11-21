@@ -1,0 +1,1128 @@
+{
+ "_info": {
+  "accent": "British RP",
+  "review_note": "IPA written by AI; speaking coach must verify."
+ },
+ "categories": [
+  {
+   "id": "animals",
+   "title": "Animals",
+   "tamil": "விலங்குகள்",
+   "icon": "🐾",
+   "words": [
+    {
+     "word": "cat",
+     "ipa": "/kæt/",
+     "tamil": "பூனை"
+    },
+    {
+     "word": "dog",
+     "ipa": "/dɒɡ/",
+     "tamil": "நாய்"
+    },
+    {
+     "word": "cow",
+     "ipa": "/kaʊ/",
+     "tamil": "பசு"
+    },
+    {
+     "word": "pig",
+     "ipa": "/pɪɡ/",
+     "tamil": "பன்றி"
+    },
+    {
+     "word": "hen",
+     "ipa": "/hen/",
+     "tamil": "கோழி"
+    },
+    {
+     "word": "duck",
+     "ipa": "/dʌk/",
+     "tamil": "வாத்து"
+    },
+    {
+     "word": "goat",
+     "ipa": "/ɡəʊt/",
+     "tamil": "ஆடு"
+    },
+    {
+     "word": "sheep",
+     "ipa": "/ʃiːp/",
+     "tamil": "செம்மறி ஆடு"
+    },
+    {
+     "word": "horse",
+     "ipa": "/hɔːs/",
+     "tamil": "குதிரை"
+    },
+    {
+     "word": "rabbit",
+     "ipa": "/ˈræbɪt/",
+     "tamil": "முயல்"
+    },
+    {
+     "word": "mouse",
+     "ipa": "/maʊs/",
+     "tamil": "எலி"
+    },
+    {
+     "word": "monkey",
+     "ipa": "/ˈmʌŋki/",
+     "tamil": "குரங்கு"
+    },
+    {
+     "word": "bear",
+     "ipa": "/beə/",
+     "tamil": "கரடி"
+    },
+    {
+     "word": "deer",
+     "ipa": "/dɪə/",
+     "tamil": "மான்"
+    },
+    {
+     "word": "lion",
+     "ipa": "/ˈlaɪən/",
+     "tamil": "சிங்கம்"
+    },
+    {
+     "word": "tiger",
+     "ipa": "/ˈtaɪɡə/",
+     "tamil": "புலி"
+    },
+    {
+     "word": "elephant",
+     "ipa": "/ˈelɪfənt/",
+     "tamil": "யானை"
+    },
+    {
+     "word": "zebra",
+     "ipa": "/ˈzebrə/",
+     "tamil": "வரிக்குதிரை"
+    },
+    {
+     "word": "snake",
+     "ipa": "/sneɪk/",
+     "tamil": "பாம்பு"
+    },
+    {
+     "word": "frog",
+     "ipa": "/frɒɡ/",
+     "tamil": "தவளை"
+    },
+    {
+     "word": "fish",
+     "ipa": "/fɪʃ/",
+     "tamil": "மீன்"
+    },
+    {
+     "word": "crab",
+     "ipa": "/kræb/",
+     "tamil": "நண்டு"
+    },
+    {
+     "word": "whale",
+     "ipa": "/weɪl/",
+     "tamil": "திமிங்கிலம்"
+    },
+    {
+     "word": "turtle",
+     "ipa": "/ˈtɜːtl/",
+     "tamil": "ஆமை"
+    },
+    {
+     "word": "bee",
+     "ipa": "/biː/",
+     "tamil": "தேனீ"
+    },
+    {
+     "word": "ant",
+     "ipa": "/ænt/",
+     "tamil": "எறும்பு"
+    },
+    {
+     "word": "bird",
+     "ipa": "/bɜːd/",
+     "tamil": "பறவை"
+    },
+    {
+     "word": "owl",
+     "ipa": "/aʊl/",
+     "tamil": "ஆந்தை"
+    },
+    {
+     "word": "parrot",
+     "ipa": "/ˈpærət/",
+     "tamil": "கிளி"
+    },
+    {
+     "word": "ox",
+     "ipa": "/ɒks/",
+     "tamil": "காளை"
+    }
+   ]
+  },
+  {
+   "id": "fruit-veg",
+   "title": "Fruit and vegetables",
+   "tamil": "பழங்களும் காய்கறிகளும்",
+   "icon": "🍎",
+   "words": [
+    {
+     "word": "apple",
+     "ipa": "/ˈæpl/",
+     "tamil": "ஆப்பிள்"
+    },
+    {
+     "word": "banana",
+     "ipa": "/bəˈnɑːnə/",
+     "tamil": "வாழைப்பழம்"
+    },
+    {
+     "word": "orange",
+     "ipa": "/ˈɒrɪndʒ/",
+     "tamil": "ஆரஞ்சு"
+    },
+    {
+     "word": "mango",
+     "ipa": "/ˈmæŋɡəʊ/",
+     "tamil": "மாம்பழம்"
+    },
+    {
+     "word": "grapes",
+     "ipa": "/ɡreɪps/",
+     "tamil": "திராட்சை"
+    },
+    {
+     "word": "lemon",
+     "ipa": "/ˈlemən/",
+     "tamil": "எலுமிச்சை"
+    },
+    {
+     "word": "pear",
+     "ipa": "/peə/",
+     "tamil": "பேரிக்காய்"
+    },
+    {
+     "word": "cherry",
+     "ipa": "/ˈtʃeri/",
+     "tamil": "செர்ரிப் பழம்"
+    },
+    {
+     "word": "coconut",
+     "ipa": "/ˈkəʊkənʌt/",
+     "tamil": "தேங்காய்"
+    },
+    {
+     "word": "tomato",
+     "ipa": "/təˈmɑːtəʊ/",
+     "tamil": "தக்காளி"
+    },
+    {
+     "word": "potato",
+     "ipa": "/pəˈteɪtəʊ/",
+     "tamil": "உருளைக்கிழங்கு"
+    },
+    {
+     "word": "onion",
+     "ipa": "/ˈʌnjən/",
+     "tamil": "வெங்காயம்"
+    },
+    {
+     "word": "carrot",
+     "ipa": "/ˈkærət/",
+     "tamil": "கேரட்"
+    },
+    {
+     "word": "corn",
+     "ipa": "/kɔːn/",
+     "tamil": "சோளம்"
+    },
+    {
+     "word": "chilli",
+     "ipa": "/ˈtʃɪli/",
+     "tamil": "மிளகாய்"
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "title": "My body",
+   "tamil": "என் உடல்",
+   "icon": "🖐️",
+   "words": [
+    {
+     "word": "eye",
+     "ipa": "/aɪ/",
+     "tamil": "கண்"
+    },
+    {
+     "word": "ear",
+     "ipa": "/ɪə/",
+     "tamil": "காது"
+    },
+    {
+     "word": "nose",
+     "ipa": "/nəʊz/",
+     "tamil": "மூக்கு"
+    },
+    {
+     "word": "mouth",
+     "ipa": "/maʊθ/",
+     "tamil": "வாய்"
+    },
+    {
+     "word": "tooth",
+     "ipa": "/tuːθ/",
+     "tamil": "பல்"
+    },
+    {
+     "word": "head",
+     "ipa": "/hed/",
+     "tamil": "தலை"
+    },
+    {
+     "word": "hand",
+     "ipa": "/hænd/",
+     "tamil": "கை"
+    },
+    {
+     "word": "finger",
+     "ipa": "/ˈfɪŋɡə/",
+     "tamil": "விரல்"
+    },
+    {
+     "word": "foot",
+     "ipa": "/fʊt/",
+     "tamil": "பாதம்"
+    },
+    {
+     "word": "heart",
+     "ipa": "/hɑːt/",
+     "tamil": "இதயம்"
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family and people",
+   "tamil": "குடும்பமும் மனிதர்களும்",
+   "icon": "👨‍👩‍👧",
+   "words": [
+    {
+     "word": "baby",
+     "ipa": "/ˈbeɪbi/",
+     "tamil": "குழந்தை"
+    },
+    {
+     "word": "boy",
+     "ipa": "/bɔɪ/",
+     "tamil": "சிறுவன்"
+    },
+    {
+     "word": "girl",
+     "ipa": "/ɡɜːl/",
+     "tamil": "சிறுமி"
+    },
+    {
+     "word": "mum",
+     "ipa": "/mʌm/",
+     "tamil": "அம்மா"
+    },
+    {
+     "word": "dad",
+     "ipa": "/dæd/",
+     "tamil": "அப்பா"
+    },
+    {
+     "word": "man",
+     "ipa": "/mæn/",
+     "tamil": "ஆண்"
+    },
+    {
+     "word": "woman",
+     "ipa": "/ˈwʊmən/",
+     "tamil": "பெண்"
+    },
+    {
+     "word": "grandma",
+     "ipa": "/ˈɡrænmɑː/",
+     "tamil": "பாட்டி"
+    },
+    {
+     "word": "grandpa",
+     "ipa": "/ˈɡrænpɑː/",
+     "tamil": "தாத்தா"
+    },
+    {
+     "word": "uncle",
+     "ipa": "/ˈʌŋkl/",
+     "tamil": "மாமா / சித்தப்பா"
+    },
+    {
+     "word": "teacher",
+     "ipa": "/ˈtiːtʃə/",
+     "tamil": "ஆசிரியர்"
+    },
+    {
+     "word": "doctor",
+     "ipa": "/ˈdɒktə/",
+     "tamil": "மருத்துவர்"
+    },
+    {
+     "word": "king",
+     "ipa": "/kɪŋ/",
+     "tamil": "அரசன்"
+    },
+    {
+     "word": "queen",
+     "ipa": "/kwiːn/",
+     "tamil": "ராணி"
+    }
+   ]
+  },
+  {
+   "id": "colours",
+   "title": "Colours",
+   "tamil": "நிறங்கள்",
+   "icon": "🎨",
+   "words": [
+    {
+     "word": "red",
+     "ipa": "/red/",
+     "tamil": "சிவப்பு"
+    },
+    {
+     "word": "blue",
+     "ipa": "/bluː/",
+     "tamil": "நீலம்"
+    },
+    {
+     "word": "green",
+     "ipa": "/ɡriːn/",
+     "tamil": "பச்சை"
+    },
+    {
+     "word": "yellow",
+     "ipa": "/ˈjeləʊ/",
+     "tamil": "மஞ்சள்"
+    },
+    {
+     "word": "orange",
+     "ipa": "/ˈɒrɪndʒ/",
+     "tamil": "ஆரஞ்சு"
+    },
+    {
+     "word": "black",
+     "ipa": "/blæk/",
+     "tamil": "கருப்பு"
+    },
+    {
+     "word": "white",
+     "ipa": "/waɪt/",
+     "tamil": "வெள்ளை"
+    },
+    {
+     "word": "pink",
+     "ipa": "/pɪŋk/",
+     "tamil": "இளஞ்சிவப்பு"
+    },
+    {
+     "word": "brown",
+     "ipa": "/braʊn/",
+     "tamil": "பழுப்பு"
+    },
+    {
+     "word": "purple",
+     "ipa": "/ˈpɜːpl/",
+     "tamil": "ஊதா"
+    },
+    {
+     "word": "grey",
+     "ipa": "/ɡreɪ/",
+     "tamil": "சாம்பல் நிறம்"
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": "Numbers",
+   "tamil": "எண்கள்",
+   "icon": "🔢",
+   "words": [
+    {
+     "word": "one",
+     "ipa": "/wʌn/",
+     "tamil": "ஒன்று"
+    },
+    {
+     "word": "two",
+     "ipa": "/tuː/",
+     "tamil": "இரண்டு"
+    },
+    {
+     "word": "three",
+     "ipa": "/θriː/",
+     "tamil": "மூன்று"
+    },
+    {
+     "word": "four",
+     "ipa": "/fɔː/",
+     "tamil": "நான்கு"
+    },
+    {
+     "word": "five",
+     "ipa": "/faɪv/",
+     "tamil": "ஐந்து"
+    },
+    {
+     "word": "six",
+     "ipa": "/sɪks/",
+     "tamil": "ஆறு"
+    },
+    {
+     "word": "seven",
+     "ipa": "/ˈsevn/",
+     "tamil": "ஏழு"
+    },
+    {
+     "word": "eight",
+     "ipa": "/eɪt/",
+     "tamil": "எட்டு"
+    },
+    {
+     "word": "nine",
+     "ipa": "/naɪn/",
+     "tamil": "ஒன்பது"
+    },
+    {
+     "word": "ten",
+     "ipa": "/ten/",
+     "tamil": "பத்து"
+    }
+   ]
+  },
+  {
+   "id": "shapes",
+   "title": "Shapes",
+   "tamil": "வடிவங்கள்",
+   "icon": "🔷",
+   "words": [
+    {
+     "word": "circle",
+     "ipa": "/ˈsɜːkl/",
+     "tamil": "வட்டம்"
+    },
+    {
+     "word": "square",
+     "ipa": "/skweə/",
+     "tamil": "சதுரம்"
+    },
+    {
+     "word": "triangle",
+     "ipa": "/ˈtraɪæŋɡl/",
+     "tamil": "முக்கோணம்"
+    },
+    {
+     "word": "rectangle",
+     "ipa": "/ˈrektæŋɡl/",
+     "tamil": "செவ்வகம்"
+    },
+    {
+     "word": "star",
+     "ipa": "/stɑː/",
+     "tamil": "நட்சத்திரம்"
+    },
+    {
+     "word": "heart",
+     "ipa": "/hɑːt/",
+     "tamil": "இதயம்"
+    }
+   ]
+  },
+  {
+   "id": "home",
+   "title": "At home",
+   "tamil": "வீட்டில்",
+   "icon": "🏠",
+   "words": [
+    {
+     "word": "bed",
+     "ipa": "/bed/",
+     "tamil": "படுக்கை"
+    },
+    {
+     "word": "chair",
+     "ipa": "/tʃeə/",
+     "tamil": "நாற்காலி"
+    },
+    {
+     "word": "table",
+     "ipa": "/ˈteɪbl/",
+     "tamil": "மேசை"
+    },
+    {
+     "word": "door",
+     "ipa": "/dɔː/",
+     "tamil": "கதவு"
+    },
+    {
+     "word": "window",
+     "ipa": "/ˈwɪndəʊ/",
+     "tamil": "ஜன்னல்"
+    },
+    {
+     "word": "lamp",
+     "ipa": "/læmp/",
+     "tamil": "விளக்கு"
+    },
+    {
+     "word": "fan",
+     "ipa": "/fæn/",
+     "tamil": "மின்விசிறி"
+    },
+    {
+     "word": "clock",
+     "ipa": "/klɒk/",
+     "tamil": "சுவர்க் கடிகாரம்"
+    },
+    {
+     "word": "mirror",
+     "ipa": "/ˈmɪrə/",
+     "tamil": "கண்ணாடி"
+    },
+    {
+     "word": "candle",
+     "ipa": "/ˈkændl/",
+     "tamil": "மெழுகுவர்த்தி"
+    },
+    {
+     "word": "broom",
+     "ipa": "/bruːm/",
+     "tamil": "துடைப்பம்"
+    },
+    {
+     "word": "lock",
+     "ipa": "/lɒk/",
+     "tamil": "பூட்டு"
+    },
+    {
+     "word": "key",
+     "ipa": "/kiː/",
+     "tamil": "சாவி"
+    },
+    {
+     "word": "umbrella",
+     "ipa": "/ʌmˈbrelə/",
+     "tamil": "குடை"
+    },
+    {
+     "word": "phone",
+     "ipa": "/fəʊn/",
+     "tamil": "தொலைபேசி"
+    },
+    {
+     "word": "comb",
+     "ipa": "/kəʊm/",
+     "tamil": "சீப்பு"
+    },
+    {
+     "word": "soap",
+     "ipa": "/səʊp/",
+     "tamil": "சோப்பு"
+    },
+    {
+     "word": "brush",
+     "ipa": "/brʌʃ/",
+     "tamil": "முடி வாரும் தூரிகை"
+    },
+    {
+     "word": "box",
+     "ipa": "/bɒks/",
+     "tamil": "பெட்டி"
+    }
+   ]
+  },
+  {
+   "id": "school-things",
+   "title": "School and clothes",
+   "tamil": "பள்ளியும் உடையும்",
+   "icon": "🎒",
+   "words": [
+    {
+     "word": "bag",
+     "ipa": "/bæɡ/",
+     "tamil": "பை"
+    },
+    {
+     "word": "book",
+     "ipa": "/bʊk/",
+     "tamil": "புத்தகம்"
+    },
+    {
+     "word": "pen",
+     "ipa": "/pen/",
+     "tamil": "பேனா"
+    },
+    {
+     "word": "pencil",
+     "ipa": "/ˈpensl/",
+     "tamil": "பென்சில்"
+    },
+    {
+     "word": "ruler",
+     "ipa": "/ˈruːlə/",
+     "tamil": "அளவுகோல்"
+    },
+    {
+     "word": "scissors",
+     "ipa": "/ˈsɪzəz/",
+     "tamil": "கத்தரிக்கோல்"
+    },
+    {
+     "word": "bell",
+     "ipa": "/bel/",
+     "tamil": "மணி"
+    },
+    {
+     "word": "cap",
+     "ipa": "/kæp/",
+     "tamil": "தொப்பி"
+    },
+    {
+     "word": "shoe",
+     "ipa": "/ʃuː/",
+     "tamil": "காலணி"
+    },
+    {
+     "word": "sock",
+     "ipa": "/sɒk/",
+     "tamil": "காலுறை"
+    },
+    {
+     "word": "watch",
+     "ipa": "/wɒtʃ/",
+     "tamil": "கடிகாரம்"
+    }
+   ]
+  },
+  {
+   "id": "kitchen",
+   "title": "Kitchen",
+   "tamil": "சமையலறை",
+   "icon": "🍴",
+   "words": [
+    {
+     "word": "bowl",
+     "ipa": "/bəʊl/",
+     "tamil": "கிண்ணம்"
+    },
+    {
+     "word": "plate",
+     "ipa": "/pleɪt/",
+     "tamil": "தட்டு"
+    },
+    {
+     "word": "cup",
+     "ipa": "/kʌp/",
+     "tamil": "கோப்பை"
+    },
+    {
+     "word": "spoon",
+     "ipa": "/spuːn/",
+     "tamil": "கரண்டி"
+    },
+    {
+     "word": "fork",
+     "ipa": "/fɔːk/",
+     "tamil": "முள்கரண்டி"
+    },
+    {
+     "word": "bottle",
+     "ipa": "/ˈbɒtl/",
+     "tamil": "புட்டி"
+    },
+    {
+     "word": "jug",
+     "ipa": "/dʒʌɡ/",
+     "tamil": "குவளை"
+    },
+    {
+     "word": "water",
+     "ipa": "/ˈwɔːtə/",
+     "tamil": "தண்ணீர்"
+    },
+    {
+     "word": "bucket",
+     "ipa": "/ˈbʌkɪt/",
+     "tamil": "வாளி"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and drink",
+   "tamil": "உணவும் பானமும்",
+   "icon": "🍞",
+   "words": [
+    {
+     "word": "milk",
+     "ipa": "/mɪlk/",
+     "tamil": "பால்"
+    },
+    {
+     "word": "rice",
+     "ipa": "/raɪs/",
+     "tamil": "அரிசி"
+    },
+    {
+     "word": "bread",
+     "ipa": "/bred/",
+     "tamil": "ரொட்டி"
+    },
+    {
+     "word": "cake",
+     "ipa": "/keɪk/",
+     "tamil": "கேக்"
+    },
+    {
+     "word": "tea",
+     "ipa": "/tiː/",
+     "tamil": "தேநீர்"
+    },
+    {
+     "word": "juice",
+     "ipa": "/dʒuːs/",
+     "tamil": "பழச்சாறு"
+    },
+    {
+     "word": "honey",
+     "ipa": "/ˈhʌni/",
+     "tamil": "தேன்"
+    },
+    {
+     "word": "cheese",
+     "ipa": "/tʃiːz/",
+     "tamil": "பாலாடைக்கட்டி"
+    },
+    {
+     "word": "sugar",
+     "ipa": "/ˈʃʊɡə/",
+     "tamil": "சர்க்கரை"
+    },
+    {
+     "word": "salt",
+     "ipa": "/sɔːlt/",
+     "tamil": "உப்பு"
+    },
+    {
+     "word": "coffee",
+     "ipa": "/ˈkɒfi/",
+     "tamil": "காபி"
+    },
+    {
+     "word": "biscuit",
+     "ipa": "/ˈbɪskɪt/",
+     "tamil": "பிஸ்கட்"
+    },
+    {
+     "word": "egg",
+     "ipa": "/eɡ/",
+     "tamil": "முட்டை"
+    },
+    {
+     "word": "jam",
+     "ipa": "/dʒæm/",
+     "tamil": "ஜாம்"
+    }
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Nature and weather",
+   "tamil": "இயற்கையும் வானிலையும்",
+   "icon": "🌈",
+   "words": [
+    {
+     "word": "sun",
+     "ipa": "/sʌn/",
+     "tamil": "சூரியன்"
+    },
+    {
+     "word": "moon",
+     "ipa": "/muːn/",
+     "tamil": "நிலா"
+    },
+    {
+     "word": "star",
+     "ipa": "/stɑː/",
+     "tamil": "நட்சத்திரம்"
+    },
+    {
+     "word": "cloud",
+     "ipa": "/klaʊd/",
+     "tamil": "மேகம்"
+    },
+    {
+     "word": "rain",
+     "ipa": "/reɪn/",
+     "tamil": "மழை"
+    },
+    {
+     "word": "snow",
+     "ipa": "/snəʊ/",
+     "tamil": "பனி"
+    },
+    {
+     "word": "wind",
+     "ipa": "/wɪnd/",
+     "tamil": "காற்று"
+    },
+    {
+     "word": "rainbow",
+     "ipa": "/ˈreɪnbəʊ/",
+     "tamil": "வானவில்"
+    },
+    {
+     "word": "fire",
+     "ipa": "/ˈfaɪə/",
+     "tamil": "தீ"
+    },
+    {
+     "word": "sea",
+     "ipa": "/siː/",
+     "tamil": "கடல்"
+    },
+    {
+     "word": "river",
+     "ipa": "/ˈrɪvə/",
+     "tamil": "ஆறு"
+    },
+    {
+     "word": "mountain",
+     "ipa": "/ˈmaʊntɪn/",
+     "tamil": "மலை"
+    },
+    {
+     "word": "stone",
+     "ipa": "/stəʊn/",
+     "tamil": "கல்"
+    },
+    {
+     "word": "grass",
+     "ipa": "/ɡrɑːs/",
+     "tamil": "புல்"
+    },
+    {
+     "word": "flower",
+     "ipa": "/ˈflaʊə/",
+     "tamil": "பூ"
+    },
+    {
+     "word": "tree",
+     "ipa": "/triː/",
+     "tamil": "மரம்"
+    },
+    {
+     "word": "leaf",
+     "ipa": "/liːf/",
+     "tamil": "இலை"
+    }
+   ]
+  },
+  {
+   "id": "transport",
+   "title": "Transport",
+   "tamil": "வாகனங்கள்",
+   "icon": "🚌",
+   "words": [
+    {
+     "word": "car",
+     "ipa": "/kɑː/",
+     "tamil": "கார்"
+    },
+    {
+     "word": "bus",
+     "ipa": "/bʌs/",
+     "tamil": "பேருந்து"
+    },
+    {
+     "word": "van",
+     "ipa": "/væn/",
+     "tamil": "வேன்"
+    },
+    {
+     "word": "truck",
+     "ipa": "/trʌk/",
+     "tamil": "லாரி"
+    },
+    {
+     "word": "auto",
+     "ipa": "/ˈɔːtəʊ/",
+     "tamil": "ஆட்டோ"
+    },
+    {
+     "word": "bike",
+     "ipa": "/baɪk/",
+     "tamil": "மிதிவண்டி"
+    },
+    {
+     "word": "train",
+     "ipa": "/treɪn/",
+     "tamil": "ரயில்"
+    },
+    {
+     "word": "jet",
+     "ipa": "/dʒet/",
+     "tamil": "ஜெட் விமானம்"
+    },
+    {
+     "word": "boat",
+     "ipa": "/bəʊt/",
+     "tamil": "படகு"
+    },
+    {
+     "word": "ship",
+     "ipa": "/ʃɪp/",
+     "tamil": "கப்பல்"
+    }
+   ]
+  },
+  {
+   "id": "actions",
+   "title": "Action words",
+   "tamil": "செயல் வார்த்தைகள்",
+   "icon": "🏃",
+   "words": [
+    {
+     "word": "run",
+     "ipa": "/rʌn/",
+     "tamil": "ஓடு"
+    },
+    {
+     "word": "walk",
+     "ipa": "/wɔːk/",
+     "tamil": "நட"
+    },
+    {
+     "word": "jump",
+     "ipa": "/dʒʌmp/",
+     "tamil": "குதி"
+    },
+    {
+     "word": "stand",
+     "ipa": "/stænd/",
+     "tamil": "நில்"
+    },
+    {
+     "word": "sit",
+     "ipa": "/sɪt/",
+     "tamil": "உட்கார்"
+    },
+    {
+     "word": "eat",
+     "ipa": "/iːt/",
+     "tamil": "சாப்பிடு"
+    },
+    {
+     "word": "drink",
+     "ipa": "/drɪŋk/",
+     "tamil": "குடி"
+    },
+    {
+     "word": "sleep",
+     "ipa": "/sliːp/",
+     "tamil": "தூங்கு"
+    },
+    {
+     "word": "read",
+     "ipa": "/riːd/",
+     "tamil": "படி"
+    },
+    {
+     "word": "write",
+     "ipa": "/raɪt/",
+     "tamil": "எழுது"
+    },
+    {
+     "word": "sing",
+     "ipa": "/sɪŋ/",
+     "tamil": "பாடு"
+    },
+    {
+     "word": "dance",
+     "ipa": "/dɑːns/",
+     "tamil": "நடனமாடு"
+    },
+    {
+     "word": "laugh",
+     "ipa": "/lɑːf/",
+     "tamil": "சிரி"
+    },
+    {
+     "word": "cry",
+     "ipa": "/kraɪ/",
+     "tamil": "அழு"
+    },
+    {
+     "word": "swim",
+     "ipa": "/swɪm/",
+     "tamil": "நீந்து"
+    },
+    {
+     "word": "wash",
+     "ipa": "/wɒʃ/",
+     "tamil": "கழுவு"
+    },
+    {
+     "word": "cook",
+     "ipa": "/kʊk/",
+     "tamil": "சமை"
+    }
+   ]
+  },
+  {
+   "id": "places",
+   "title": "Places",
+   "tamil": "இடங்கள்",
+   "icon": "🏫",
+   "words": [
+    {
+     "word": "house",
+     "ipa": "/haʊs/",
+     "tamil": "வீடு"
+    },
+    {
+     "word": "school",
+     "ipa": "/skuːl/",
+     "tamil": "பள்ளி"
+    },
+    {
+     "word": "shop",
+     "ipa": "/ʃɒp/",
+     "tamil": "கடை"
+    },
+    {
+     "word": "temple",
+     "ipa": "/ˈtempl/",
+     "tamil": "கோயில்"
+    },
+    {
+     "word": "hospital",
+     "ipa": "/ˈhɒspɪtl/",
+     "tamil": "மருத்துவமனை"
+    },
+    {
+     "word": "farm",
+     "ipa": "/fɑːm/",
+     "tamil": "பண்ணை"
+    },
+    {
+     "word": "park",
+     "ipa": "/pɑːk/",
+     "tamil": "பூங்கா"
+    }
+   ]
+  }
+ ]
+}

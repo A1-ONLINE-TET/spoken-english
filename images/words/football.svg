@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="football"><title>football</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><ellipse cx="100" cy="178" rx="52" ry="7" fill="#000" opacity="0.10"/><g class="bounce" style="transform-box:view-box;transform-origin:100px 176px"><circle cx="100" cy="104" r="54" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="5" /><polygon points="100.0,86.0 110.6,89.4 117.1,98.4 117.1,109.6 110.6,118.6 100.0,122.0 89.4,118.6 82.9,109.6 82.9,98.4 89.4,89.4" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /><polygon points="100.0,86.0 90.97029476131962,52.78999684336518 109.02970523868038,52.78999684336518" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="2" stroke-linejoin="round" /><polygon points="117.11901729331277,98.43769410125094 145.9132748286642,79.58747873513369 151.49393957456167,96.76299875007659" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="2" stroke-linejoin="round" /><polygon points="110.58013454126451,118.56230589874906 137.40566961760987,140.12223526386785 122.79529963303203,150.73729040755669" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="2" stroke-linejoin="round" /><polygon points="89.41986545873549,118.56230589874906 77.20470036696797,150.73729040755669 62.59433038239014,140.12223526386785" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="2" stroke-linejoin="round" /><polygon points="82.88098270668723,98.43769410125095 48.50606042543835,96.76299875007659 54.0867251713358,79.58747873513367" fill="#2B2B2B" stroke="#2B2B2B" stroke-width="2" stroke-linejoin="round" /><path d="M66 84 C62 96 62 108 68 120" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity=".6"/></g></g></svg>

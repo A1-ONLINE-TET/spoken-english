@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="eight"><title>eight</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><text x="100" y="84" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="78" fill="#00ACC1" stroke="#2B2B2B" stroke-width="5" paint-order="stroke" stroke-linejoin="round">8</text><g class="pulse" style="transform-box:view-box;transform-origin:40px 116px;animation-delay:0.0s"><polygon points="40.0,102.0 43.5,111.1 53.3,111.7 45.7,117.9 48.2,127.3 40.0,122.0 31.8,127.3 34.3,117.9 26.7,111.7 36.5,111.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:70px 116px;animation-delay:0.15s"><polygon points="70.0,102.0 73.5,111.1 83.3,111.7 75.7,117.9 78.2,127.3 70.0,122.0 61.8,127.3 64.3,117.9 56.7,111.7 66.5,111.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:100px 116px;animation-delay:0.3s"><polygon points="100.0,102.0 103.5,111.1 113.3,111.7 105.7,117.9 108.2,127.3 100.0,122.0 91.8,127.3 94.3,117.9 86.7,111.7 96.5,111.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:130px 116px;animation-delay:0.44999999999999996s"><polygon points="130.0,102.0 133.5,111.1 143.3,111.7 135.7,117.9 138.2,127.3 130.0,122.0 121.8,127.3 124.3,117.9 116.7,111.7 126.5,111.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:160px 116px;animation-delay:0.6s"><polygon points="160.0,102.0 163.5,111.1 173.3,111.7 165.7,117.9 168.2,127.3 160.0,122.0 151.8,127.3 154.3,117.9 146.7,111.7 156.5,111.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:70px 146px;animation-delay:0.75s"><polygon points="70.0,132.0 73.5,141.1 83.3,141.7 75.7,147.9 78.2,157.3 70.0,152.0 61.8,157.3 64.3,147.9 56.7,141.7 66.5,141.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:100px 146px;animation-delay:0.8999999999999999s"><polygon points="100.0,132.0 103.5,141.1 113.3,141.7 105.7,147.9 108.2,157.3 100.0,152.0 91.8,157.3 94.3,147.9 86.7,141.7 96.5,141.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:130px 146px;animation-delay:1.05s"><polygon points="130.0,132.0 133.5,141.1 143.3,141.7 135.7,147.9 138.2,157.3 130.0,152.0 121.8,157.3 124.3,147.9 116.7,141.7 126.5,141.1" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g></g></svg>

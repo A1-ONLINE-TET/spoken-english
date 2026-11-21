@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="tooth"><title>tooth</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><ellipse cx="100" cy="178" rx="52" ry="7" fill="#000" opacity="0.10"/><g class="bounce" style="transform-box:view-box;transform-origin:100px 176px"><path d="M58 60 C58 38 88 44 100 52 C112 44 142 38 142 60 C142 94 132 114 128 150 C126 172 108 172 106 150 C104 126 96 126 94 150 C92 172 74 172 72 150 C68 114 58 94 58 60 Z" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" /><path d="M72 62 C70 80 76 98 80 112" fill="none" stroke="#DCE6EA" stroke-width="6" stroke-linecap="round"/><g class="pulse" style="transform-box:view-box;transform-origin:158px 46px"><polygon points="158.0,32.0 161.5,42.5 172.0,46.0 161.5,49.5 158.0,60.0 154.5,49.5 144.0,46.0 154.5,42.5" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g><g class="pulse" style="transform-box:view-box;transform-origin:44px 96px"><polygon points="44.0,86.0 46.8,93.2 54.0,96.0 46.8,98.8 44.0,106.0 41.2,98.8 34.0,96.0 41.2,93.2" fill="#FFD54F" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /></g></g></g></svg>

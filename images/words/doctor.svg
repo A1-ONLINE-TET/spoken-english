@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="512" height="512" role="img" aria-label="doctor"><title>doctor</title><style>
+.a{transform-box:fill-box;transform-origin:50% 100%}
+.c{transform-box:fill-box;transform-origin:50% 50%}
+.bounce{animation:bounce 1.2s ease-in-out infinite}
+.wiggle{animation:wiggle 1.4s ease-in-out infinite}
+.float{animation:float 2.4s ease-in-out infinite}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+.spin{animation:spin 6s linear infinite}
+.spinfast{animation:spin 1s linear infinite}
+.sway{animation:sway 2.6s ease-in-out infinite}
+.wag{animation:wag .7s ease-in-out infinite}
+.blink{animation:blink 3.4s infinite}
+.swim{animation:swim 2.4s ease-in-out infinite}
+.fall{animation:fall 1.4s linear infinite}
+.updown{animation:updown 1.4s ease-in-out infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes wiggle{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+@keyframes wag{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+@keyframes swim{0%,100%{transform:translateX(-8px)}50%{transform:translateX(8px)}}
+@keyframes fall{0%{transform:translateY(-14px);opacity:0}20%{opacity:1}100%{transform:translateY(34px);opacity:0}}
+@keyframes updown{0%,100%{transform:translateY(-26px)}50%{transform:translateY(26px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><filter id="sh" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/><feSpecularLighting in="b" surfaceScale="5" specularConstant=".7" specularExponent="22" lighting-color="#ffffff" result="s"><feDistantLight azimuth="235" elevation="50"/></feSpecularLighting><feComposite in="s" in2="SourceAlpha" operator="in" result="s2"/><feDiffuseLighting in="b" surfaceScale="4" diffuseConstant="1.15" lighting-color="#ffffff" result="d"><feDistantLight azimuth="235" elevation="62"/></feDiffuseLighting><feComposite in="SourceGraphic" in2="d" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" result="m"/><feComposite in="m" in2="s2" operator="arithmetic" k1="0" k2="1" k3=".55" k4="0"/></filter></defs><g filter="url(#sh)"><g class="float" style="transform-box:view-box;transform-origin:100px 176px"><rect x="88" y="130" width="24" height="30" rx="0" fill="#C98F63" stroke="#2B2B2B" stroke-width="0" stroke-linejoin="round" /><line x1="88" y1="130" x2="88" y2="158" stroke="#C98F63" stroke-width="0" stroke-linecap="round"/><path d="M40 198 Q46 160 78 154 L122 154 Q154 160 160 198 Z" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" /><polygon points="84,154 100,180 116,154" fill="#26A69A" stroke="#2B2B2B" stroke-width="3" stroke-linejoin="round" /><path d="M76 160 Q72 192 100 192 Q128 192 124 160" fill="none" stroke="#555555" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><circle cx="100" cy="190" r="6" fill="#9EA7AD" stroke="#2B2B2B" stroke-width="3" /><ellipse cx="58" cy="102" rx="7" ry="11" fill="#C98F63" stroke="#2B2B2B" stroke-width="4" /><ellipse cx="142" cy="102" rx="7" ry="11" fill="#C98F63" stroke="#2B2B2B" stroke-width="4" /><circle cx="100" cy="98" r="40" fill="#C98F63" stroke="#2B2B2B" stroke-width="5" /><g class="c blink" ><circle cx="82" cy="100" r="5" fill="#2B2B2B"/><circle cx="118" cy="100" r="5" fill="#2B2B2B"/><circle cx="83.5" cy="98.2" r="1.75" fill="#fff"/><circle cx="119.5" cy="98.2" r="1.75" fill="#fff"/></g><ellipse cx="100" cy="112" rx="5" ry="4" fill="#B5774F" stroke="#2B2B2B" stroke-width="2" /><path d="M88 122 Q100 134 112 122" fill="none" stroke="#2B2B2B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><circle cx="72" cy="118" r="6" fill="#F7A8B8" stroke="#2B2B2B" stroke-width="0" opacity=".8"/><circle cx="128" cy="118" r="6" fill="#F7A8B8" stroke="#2B2B2B" stroke-width="0" opacity=".8"/><path d="M58 74 Q60 36 100 34 Q140 36 142 74 Q124 66 100 66 Q76 66 58 74 Z" fill="#26A69A" stroke="#2B2B2B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" /><path d="M96 46 H104 V52 H110 V60 H104 V66 H96 V60 H90 V52 H96 Z" fill="#FFFFFF" stroke="#2B2B2B" stroke-width="0" stroke-linejoin="round" stroke-linecap="round" /></g></g></svg>

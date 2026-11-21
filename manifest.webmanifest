@@ -1,0 +1,16 @@
+{
+  "name": "தமிழ் நண்பன் அகாடமி",
+  "short_name": "தமிழ் நண்பன்",
+  "description": "British Spoken English — letters, words, actions and tests for Tamil learners.",
+  "lang": "ta",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#5B3DF5",
+  "theme_color": "#5B3DF5",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
